@@ -2,7 +2,7 @@
 
 Mission Statement :
 The project’s mission is to address certain common queries of Masters's students seeking jobs, 
-particularly those applying for a full-time Data Oriented / Analyst role in the United States, via 
+particularly those applying for a full-time Data Oriented / Analyst role in the United States, via
 Indeed.com.
 
 Mission Objectives :
